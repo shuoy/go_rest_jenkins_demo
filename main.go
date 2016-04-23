@@ -6,6 +6,7 @@ import (
 
 	"github.com/astaxie/beego"
 )
+func init() { test }
 
 func main() {
 	if beego.BConfig.RunMode == "dev" {
