@@ -10,7 +10,7 @@ import (
 
 	"github.com/astaxie/beego"
 	. "github.com/smartystreets/goconvey/convey"
-	"errorsource" //   error line
+	"errorsource" // error line
 )
 
 func init() {
